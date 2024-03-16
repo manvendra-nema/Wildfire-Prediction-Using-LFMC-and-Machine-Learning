@@ -29,12 +29,6 @@ Our results show that Random Forest and SVM achieved the following accuracies:
 
 Concluding that Random Forest performs better for this wildfire prediction task.
 
-## Repository Contents
-
-- `data/`: Directory containing datasets used in the project.
-- `notebooks/`: Jupyter notebooks demonstrating data analysis, model training, and evaluation.
-- `models/`: Saved trained models.
-- `README.md`: This file providing an overview of the project.
 
 ## Usage
 
