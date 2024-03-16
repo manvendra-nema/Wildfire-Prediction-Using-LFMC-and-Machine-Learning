@@ -57,4 +57,4 @@ To replicate the results or explore further:
 - ray
 - earthengine-api
 
-## Note Result may change w.r.t report as I am running code after 2 semester :) 
+Note: Result may change w.r.t report as I am running code after 2 semester :) 
