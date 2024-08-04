@@ -44,7 +44,7 @@ To replicate the results or explore further:
 2. **Explore the notebooks:**
 Check the notebooks in the notebooks/ directory for data analysis and model training.
 
-##📦 Dependencies
+## 📦 Dependencies
 Python 3.x
 scikit-learn
 pandas
