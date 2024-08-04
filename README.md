@@ -1,4 +1,4 @@
-# 🔥 FMC WildFire Prediction
+# 🔥 LFMC WildFire Prediction
 
 ## 🌟 Introduction
 As we see a rise in the temperature across the globe, its potential to burn has also increased. Over the past few decades, there have been many incidents of occurrence of wildfires in the world. An earlier prediction of forest fires can help in better wildfire risk management.
